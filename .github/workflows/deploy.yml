@@ -6,8 +6,12 @@ on:
 
 jobs:
   deploy:
-    runs-on: pandoc/core:2.19-ubuntu
+    runs-on: ubuntu-20.04
     steps:
+      - name: Install pandoc
+        run: |
+          apt update
+          apt install -y make pandoc
       - name: Checkout
         uses: actions/checkout@v2
       - name: Build
