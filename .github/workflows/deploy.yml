@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: Install pandoc
         run: |
-          apt update
-          apt install -y make pandoc
+          sudo apt update
+          sudo apt install -y make pandoc
       - name: Checkout
         uses: actions/checkout@v2
       - name: Build
