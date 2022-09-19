@@ -1,5 +1,5 @@
 ---
-title: "Peer code review pilot study: episode 1"
+title: "Episode 1: Version control concepts"
 author: Rob Moss, Eamon Conway, James Ong
 date: October 2022
 theme: white

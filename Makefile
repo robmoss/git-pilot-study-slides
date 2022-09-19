@@ -6,7 +6,7 @@
 #
 
 # Identify each slide set.
-SOURCES := $(wildcard *-slides.md)
+SOURCES := $(wildcard *.md)
 OUTPUTS := $(SOURCES:.md=.html)
 OUT_DIR := public
 
