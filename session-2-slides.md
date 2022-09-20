@@ -38,3 +38,13 @@ theme: white
 Section 2: Effective use of git
 
 [https://git-is-my-lab-book.net/](https://git-is-my-lab-book.net/)
+
+## Next time
+
+- Please read [**Section 3: Collaborating**](https://git-is-my-lab-book.net/collaborating/)
+
+- Please [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+- Please create a [GitHub](https://www.github.com/) account
+
+- Please [add an SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to your GitHub account

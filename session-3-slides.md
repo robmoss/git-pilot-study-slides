@@ -34,3 +34,11 @@ theme: white
 Section 3: Collaborating
 
 [https://git-is-my-lab-book.net/](https://git-is-my-lab-book.net/)
+
+## Next time
+
+- Please provide feedback on the materials
+
+- Please apply these skills in your research activities
+
+- Please conduct at least one peer code review!
