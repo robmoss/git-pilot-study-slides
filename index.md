@@ -57,4 +57,4 @@ This pilot study consists of:
 
 - [Episode 2: How to use version control](session-2-slides.html)
 
-- Episode 3: Peer code review & collaboration
+- [Episode 3: Peer code review & collaboration](session-3-slides.html)
