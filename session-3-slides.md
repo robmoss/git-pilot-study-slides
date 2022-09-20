@@ -8,15 +8,21 @@ theme: white
 ## Don't panic
 
 - We're all learning and growing
+
 - We can help each other
+
 - Don't be afraid to ask questions!
 
 ## Learning objectives
 
 - Share a repository with one or more collaborators
+
 - Create a pull request
+
 - Use pull requests to review a collaborator's work
+
 - Use pull requests to merge a collaborator's work
+
 - Conduct peer code review in a respectful manner
 
 ## Prerequisites

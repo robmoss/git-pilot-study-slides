@@ -8,7 +8,9 @@ theme: white
 ## Don't panic
 
 - We're all learning and growing
+
 - We can help each other
+
 - Don't be afraid to ask questions!
 
 ## Learning objectives

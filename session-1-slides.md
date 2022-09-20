@@ -8,13 +8,17 @@ theme: white
 ## Don't panic
 
 - We're all learning and growing
+
 - We can help each other
+
 - Don't be afraid to ask questions!
 
 ## The good news
 
 - Simple work habits are key
+
 - There are tools that can **help**
+
 - You only need to take small steps
 
 ## Learning objectives
