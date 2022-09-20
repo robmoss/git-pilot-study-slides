@@ -5,8 +5,6 @@ date: October 2022
 theme: white
 ---
 
-## Acknowledgement of Country
-
 ## Don't panic
 
 - We're all learning and growing
@@ -19,20 +17,20 @@ theme: white
 - There are tools that can **help**
 - You only need to take small steps
 
-## Code of conduct
+## Learning objectives
 
-- This is a safe, inclusive environment
-- Treat everyone with respect and compassion
+- Understand the concepts of version control;
 
-## The plan
+- Identify when version control is useful **for you**;
 
-- **Episode 1:** version control concepts
-  - What are they?
-  - How can they help our research?
-- Episode 2: how to use version control
-- Episode 3: peer code review & collaboration
-- Ongoing: feedback and assessment
+- Categorise recent work activities into commits;
+
+- Write good commit messages; and
+
+- Identify when to divide work into multiple branches.
 
 ## Let's start
+
+Section 1: Version control concepts
 
 [https://git-is-my-lab-book.net/](https://git-is-my-lab-book.net/)

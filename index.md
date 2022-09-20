@@ -15,7 +15,7 @@ theme: white
 
   - Share expertise and difficulties
 
-- Provide the basis for using tools such as:
+- Provide the basis for other activities:
 
   - Reproducible research
 
@@ -35,10 +35,26 @@ This pilot study consists of:
 
 - Follow-up survey
 
+## Code of conduct
+
+- This is a safe, inclusive environment
+
+- Treat everyone with respect and compassion
+
+## Session structure
+
+- Please read the materials **before** the session
+
+- We want to use this time to discuss the content
+
+  - Address any issues, points of confusion, etc
+
+  - Work through the exercises together
+
 ## Sessions
 
 - [Episode 1: Version control concepts](session-1-slides.html)
 
-- Episode 2: How to use version control
+- [Episode 2: How to use version control](session-2-slides.html)
 
 - Episode 3: Peer code review & collaboration
