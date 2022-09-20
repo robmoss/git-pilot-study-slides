@@ -13,15 +13,15 @@ theme: white
 
 ## Learning objectives
 
-- Create a repository and record commits;
+- Create a repository and record commits
 
-- Search your commit history;
+- Search your commit history
 
-- Push and pull commits between repositories;
+- Push and pull commits between repositories
 
-- Work in separate branches;
+- Work in separate branches
 
-- Merge branches and resolve merge conflicts;
+- Merge branches and resolve merge conflicts
 
 ## Prerequisites
 
