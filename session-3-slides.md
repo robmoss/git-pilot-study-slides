@@ -48,3 +48,5 @@ Section 3: Collaborating
 - Please apply these skills in your research activities
 
 - Please conduct at least one peer code review!
+
+- Please complete the [evaluation survey](https://melbourneuni.au1.qualtrics.com/jfe/form/SV_d40vkKdkEaRZT4G)
