@@ -41,7 +41,7 @@ Section 3: Collaborating
 
 [https://git-is-my-lab-book.net/](https://git-is-my-lab-book.net/)
 
-## Next time
+## Before the SPECTRUM & SPARK meeting
 
 - Please provide feedback on the materials
 
